@@ -1,2 +1,1 @@
-# PrepCourse_Henry
-Este es un repositorio del modulo2 del PrepCourse de Henry
+Este es una prueba de como crear un respositorio y clonarlo dese Github a la comoutadora
